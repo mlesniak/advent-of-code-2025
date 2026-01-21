@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "scripts": {
+        "day": "node",
+        "lint": "eslint ."
+    }
+}
