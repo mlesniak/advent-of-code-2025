@@ -1,4 +1,7 @@
 {
+    "devDependencies": {
+        "@types/node": "^25.0.10"
+    },
     "type": "module",
     "scripts": {
         "day": "node",
